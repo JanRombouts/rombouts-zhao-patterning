@@ -1,6 +1,6 @@
 # Contents
 
-This repository contains code that goes with the paper *System size and boundaries determine the patterning dynamics of attracting active particles* (Rombouts et al.)
+This repository contains code that goes with the paper *System size and boundaries determine the patterning dynamics of attracting active particles* (Rombouts and Zhao et al.)
 
 If you have questions you are welcome to send them to Jan Rombouts (jan.rombouts@ulb.be). 
 
