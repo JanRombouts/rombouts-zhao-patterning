@@ -2,7 +2,7 @@
 
 This repository contains code that goes with the paper *System size and boundaries determine the patterning dynamics of attracting active particles* (Rombouts et al.)
 
-If you have questions you can address them to Jan Rombouts (jan.rombouts@ulb.be). 
+If you have questions you are welcome to send them to Jan Rombouts (jan.rombouts@ulb.be). 
 
 ## Python module files
 
